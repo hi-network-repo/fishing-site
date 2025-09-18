@@ -5,6 +5,7 @@ gem 'jekyll', '~> 4.4'
 
 group :jekyll_plugins do
   gem 'jekyll-algolia',       '~> 1.0'
+  gem 'jekyll-redirect-from'
   gem 'jekyll-github-metadata'
   gem 'jekyll-sitemap'
   gem 'jekyll-include-cache'
